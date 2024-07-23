@@ -37,5 +37,5 @@ DELETE FROM customers WHERE id = 2;
 
 --These are just basic examples. As you progress, you'll explore more complex queries, functions, joins (combining data from multiple tables), and data manipulation techniques.
 
-
+-- USEFUL WEBSITE: https://app.quickdatabasediagrams.com/
 
